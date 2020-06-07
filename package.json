@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-stack-javascript",
+  "version": "1.0.0",
+  "description": "Implementation of a common stack with push, pop, peek, length, search, isEmpty and print functions. Then unit test will be applied for each function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentranhau98/unit-test-stack-javascript.git"
+  },
+  "author": "Nguyen Tran Hau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyentranhau98/unit-test-stack-javascript/issues"
+  },
+  "homepage": "https://github.com/nguyentranhau98/unit-test-stack-javascript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
