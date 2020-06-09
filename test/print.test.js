@@ -1,5 +1,9 @@
 const stack = require('../stack');
 
+afterEach(() => {
+    stack.clear();
+});
+
 global.console = {
     warn: jest.fn(),
     log: jest.fn()

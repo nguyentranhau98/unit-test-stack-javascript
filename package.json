@@ -16,7 +16,9 @@
     "url": "https://github.com/nguyentranhau98/unit-test-stack-javascript/issues"
   },
   "homepage": "https://github.com/nguyentranhau98/unit-test-stack-javascript#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@types/jest": "^25.2.3"
+  },
   "devDependencies": {
     "jest": "^26.0.1"
   }

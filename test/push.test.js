@@ -1,5 +1,9 @@
 const stack = require('../stack');
 
+afterEach(() => {
+    stack.clear();
+});
+
 test('Test the validity of function push of stack with an integer', () => {
     expect(stack.push(1)).toBe(1);
 });
