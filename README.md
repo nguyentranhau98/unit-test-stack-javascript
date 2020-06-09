@@ -10,10 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 Make sure you have installed all of the following prerequisites on your development machine:
 
-```
+
 * Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
 * Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager. If you encounter any problems, you can also use this [GitHub Gist](https://gist.github.com/isaacs/579814) to install Node.js.
-```
+
 
 ### Installing
 
@@ -28,7 +28,7 @@ npm install
 The automated tests for this system can be run using this command:
 
 ```
-npm install
+npm run test
 ```
 
 ### Break down into end to end tests
